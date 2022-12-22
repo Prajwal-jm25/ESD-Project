@@ -6,3 +6,5 @@ Tech Stack:
 Frontend: React, HTML, JS, CSS
 
 Backend: MySQL, Hibernate, Jersey (JPA + JAX-RS), Java
+
+Add Node Modules to frontend folder
